@@ -8,7 +8,7 @@
   }
   
   /* Contact image */
-  .Contact .avatar {
+   .avatar {
     border-radius: 50%;
     margin-right: 1em;
     width: 48px;
@@ -16,9 +16,9 @@
   }
   
   /* Name */
-  .Contact .name {
+   .name {
     margin: 0 0 0.25rem;
-    color: #eee;
+    
   }
   
   /* Status text */
@@ -44,5 +44,3 @@
   .Contact .status .status-offline {
     background: #f4511e;
   }
-
- 
